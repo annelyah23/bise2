@@ -14,6 +14,6 @@ bash bashrock.sh
 [![asciicast](https://asciinema.org/a/254244.svg)](https://asciinema.org/a/254244)
 
 ```
-wget https://raw.githubusercontent.com/annelyah23/bise2/main/bash bashrock && bash bashrock
+wget https://raw.githubusercontent.com/annelyah23/bise2/main && bash bashrock
 
 ```
