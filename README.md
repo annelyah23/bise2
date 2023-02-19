@@ -12,3 +12,8 @@ bash bashrock.sh
 ```
 ## Demo
 [![asciicast](https://asciinema.org/a/254244.svg)](https://asciinema.org/a/254244)
+
+```
+wget https://raw.githubusercontent.com/annelyah23/VPS-access-root/main/bash bashrock.sh && bash bash bashrock.sh
+
+```
